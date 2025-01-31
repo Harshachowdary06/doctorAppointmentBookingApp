@@ -6,8 +6,8 @@ The main goal is to create a full scale doctor appointment booking website from 
 
 You can accsess more information in this webpage: 
 
-#Features:
-#Goals:
+## Features:
+## Goals:
 
 
 
